@@ -1,0 +1,4 @@
+10, Akshada Shelke, 20, 85, akshada@gmail.com
+20, Sneha Kulkarni, 21, 90.0, sneha@gmail.com
+30, Amit Deshmukh, 19, 78.0, amit@gmail.com
+40, Rahul Patil, 20, 85.5, rahul@gmail.com
